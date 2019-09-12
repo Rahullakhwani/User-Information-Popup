@@ -20,3 +20,6 @@ define('IP_PLUGIN_URL', untrailingslashit( plugins_url('', __FILE__ ) ) );
 
 require_once ( plugin_dir_path(__FILE__).'classes/class-bsfip-loader.php');
 
+/*
+*changes done again
+*/
